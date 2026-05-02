@@ -8,3 +8,10 @@ lightning==2.0.9
 pillow==9.5.0
 safetensors==0.4.5
 gradio==4.44.1
+
+# For CUDA 11.8:
+torchvision==0.15.2
+##pip install torch==2.0.1 --index-url https://download.pytorch.org/whl/cu118
+
+# jupyterlab==4.2.5
+# ipykernel==6.29.5
