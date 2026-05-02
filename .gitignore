@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pth
+*.ckpt
+*.bin
+*.pt
+*.zip
+*.rar
+*.tar
+.DS_Store
